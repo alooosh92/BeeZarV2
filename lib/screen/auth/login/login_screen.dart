@@ -81,6 +81,7 @@ class LoginScreen extends StatelessWidget {
                             Radius.circular(20),
                           ),
                         ),
+                        child: Center(child: Text("تسجيل الدخول")),
                       )
                     ],
                   ),
